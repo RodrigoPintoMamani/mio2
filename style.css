@@ -1,0 +1,14 @@
+body {
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: #06283D;
+    color: #47B5ff;
+}
+
+h1 {
+    font-size: 6rem;
+    margin: 50px auto;
+    font-family: "Sacramento", cursive;
+    font-weight: normal;
+}
